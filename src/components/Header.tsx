@@ -1,5 +1,5 @@
 import Link from "next/link";
-import Projects from "./Projects";
+
 
 const Header: React.FC = () => {
   return (

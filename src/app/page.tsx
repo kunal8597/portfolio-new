@@ -2,7 +2,6 @@
 import Footer from "@/components/Footer";
 import Header from "@/components/Header";
 import Particles from "@/components/Particles";
-import Projects from "@/components/Projects";
 import Image from "next/image";
 import { useEffect, useState } from "react";
 
