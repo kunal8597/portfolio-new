@@ -25,7 +25,7 @@ export default function Home() {
         quantity={200}
       />
       <main className="flex flex-col gap-8 row-start-2 items-center sm:items-start">
-      <div className={`text-1xl sm:text-3xl font-[family-name:var(--font-geist-mono)] text-green-600 ${visible ? 'opacity-100' : 'opacity-0'} transition-opacity duration-500`}>
+      <div className={`text-3xl sm:text-3xl font-[family-name:var(--font-geist-mono)] text-green-600 ${visible ? 'opacity-100' : 'opacity-0'} transition-opacity duration-500`}>
           kunal mathur
         </div>
         
