@@ -50,7 +50,7 @@ export default function Home() {
               <div className="items-right">resume  → </div>
           <a
             className="rounded-full border border-solid border-black dark:border-white/[.145] transition-colors flex items-center justify-center hover:bg-[#f2f2f2] dark:hover:bg-[#1a1a1a] hover:border-transparent text-sm sm:text-base h-10 sm:h-12 px-3 sm:px-5 sm:min-w-35.5"
-            href="https://drive.google.com/file/d/1oqZPkVTWAAtNeuJ_jGRKQ3TVwkOFUFTA/view?usp=sharing"
+            href="https://drive.google.com/file/d/1KqBg65EXLRE-6q6nKz2QnGSoF8jg6o1F/view?usp=drive_link"
             target="_blank"
             rel="noopener noreferrer"
           >  
