@@ -1,4 +1,4 @@
-import { FaGithub } from "react-icons";
+import { FaGithub } from "react-icons/fa6";
 import Image from 'next/image';
 import Link from "next/link";
 import Journing from "/public/images/journing.png"
