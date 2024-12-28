@@ -18,7 +18,7 @@ const projects = [
     liveLink: "https://journing.vercel.app/",
     githubLink: "https://github.com/kunal8597/journing",
     tags: [
-     "NextJs", "Typescript","Supabase", "Tailwind CSS", "shadcn"
+     "NextJs", "Typescript","Supabase", "Tailwind CSS", "Framer Motion", "shadcn"
     ],
   },
   {
